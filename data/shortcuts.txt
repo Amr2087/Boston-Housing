@@ -1,0 +1,4 @@
+RM - average number of rooms per dwelling
+PTRATIO - pupil-teacher ratio by town
+LSTAT - % lower status of the population
+MEDV - Median value of owner-occupied homes in $1000's
