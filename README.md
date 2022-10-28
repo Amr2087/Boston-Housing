@@ -1,2 +1,7 @@
 # Boston-Housing
- A Machine learning Model use to predict the Price of houses in Boston
+ A Machine learning Model use to predict the price of houses in Boston
+ Used : 
+1.Python
+2.Scikit-Learn
+3.Liner Regressiopn
+4.Pandas
