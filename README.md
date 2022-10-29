@@ -8,4 +8,6 @@
   
   3.Support Vector Regression
   
+  4.Feature Scaling
+  
   4.Pandas
