@@ -6,6 +6,6 @@
   
   2.Scikit-Learn
   
-  3.Liner Regressiopn
+  3.Support Vector Regression
   
   4.Pandas
