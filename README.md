@@ -10,4 +10,6 @@
   
   4.Feature Scaling
   
-  4.Pandas
+  5.Pandas
+  
+  6.NumPy
